@@ -17,6 +17,9 @@ constructor con todos los atributos y los métodos getter y setter de los atribu
 
 ## Apoyo
 
+- https://youtu.be/9CfYBHl9PmY
+- https://youtu.be/DBhXOS2BcAg
+
 ## Autores
 
 - Jose Eduardo Hernandez
