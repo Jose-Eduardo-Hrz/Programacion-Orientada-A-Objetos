@@ -1,0 +1,25 @@
+4
+Elefante
+Mamiferos placentarios
+12
+10
+Hierba y fruta
+Sexual
+Lobo
+Mamifero carnivoro
+5
+20
+Carne
+Sexual
+Esponja
+Animal acuatico del Parazoa
+1
+30
+Materia Organica
+axexual
+Leon
+Mamifero carnivoro Felino
+12
+40
+Carne
+Sexual
