@@ -17,7 +17,7 @@ por líneas de cabecera.
 
 ## Resultado
 
-![](https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/main/Tarea1_RepasoPOO/Resultado.gif)
+![](https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/main/Tarea2_Programacion_Flujos/Resultado.gif)
 
 ## Apoyo
 
