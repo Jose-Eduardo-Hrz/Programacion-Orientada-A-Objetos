@@ -45,7 +45,7 @@ public class ManejadorHilos implements Runnable {
             salidaAlCliente.writeBytes( "Content-Type:image/jpeg\r\n" );
 
         if (fileName.endsWith(".jpg")) 
-            salidaAlCliente.writeBytes( "Content-Type:image/jpeg\r\n" );
+            salidaAlCliente.writeBytes( "Content-Type:image/jpg\r\n" );
 
         if (fileName.endsWith(".gif")) 
             salidaAlCliente.writeBytes( "Content-Type:image/gif\r\n" );
