@@ -1,5 +1,10 @@
-10
-20
-30
-40
-50
+1
+1
+1
+1
+1
+NomAmfibio tipPielAnf respAnf reproAnf HabiAnfi colPielAnf
+NomAve tipPielAve respAve reproAve HabiAve true
+NomMami tipPielMami respMami reproMami HabiMami false
+NomPez tipPielPez respPez reproPez HabiPez 5
+NomRep tipPielRep respRep reproRep HabiRep true
