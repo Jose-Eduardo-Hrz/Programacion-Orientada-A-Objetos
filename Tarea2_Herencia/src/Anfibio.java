@@ -16,14 +16,8 @@ public class Anfibio extends Animal{
     // Metodo toString 
     @Override
     public String toString() {
-        return String.format("%-20s %-20s %-20s %-20s %-20s %-10s %-10s %-10s %-10s %-10s", 
-            getNombre(), 
-            getTipoPiel(),
-            getTipoRespiracion(),
-            getTipoReproduccion(),
-            getHabitad(),
-            getColorPiel(),
-            "N/A","N/A", "N/A", "N/A"
+        return super.toString() + String.format("%-10s %-10s %-10s %-10s %-10s",
+            getColorPiel(), "N/A","N/A", "N/A", "N/A"
         );
     }
 
