@@ -29,4 +29,12 @@ public class Animal {
     public void setTipoRespiracion(String tipoRespiracion) { this.tipoRespiracion = tipoRespiracion; }
     public void setTipoReproduccion(String tipoReproduccion) { this.tipoReproduccion = tipoReproduccion; }
     public void setHabitad(String habitad) { this.habitad = habitad; }
+
+    // Metodo toString
+    @Override
+    public String toString() {
+        return String.format("%-20s %-20s %-20s %-20s %-20s ", 
+            getNombre(), getTipoPiel(), getTipoRespiracion(), getTipoReproduccion(), getHabitad()
+        );
+    }
 }
