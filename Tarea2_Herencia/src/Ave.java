@@ -15,15 +15,8 @@ public class Ave extends Animal{
 
     @Override
     public String toString() {
-        return String.format("%-20s %-20s %-20s %-20s %-20s %-10s %-10s %-10s %-10s %-10s", 
-            getNombre(), 
-            getTipoPiel(),
-            getTipoRespiracion(),
-            getTipoReproduccion(),
-            getHabitad(),
-            "N/A",
-            getVuela(),
-            "N/A", "N/A", "N/A"
+        return super.toString() + String.format("%-10s %-10s %-10s %-10s %-10s",
+            "N/A", getVuela(), "N/A", "N/A", "N/A"
         );
     }
 
