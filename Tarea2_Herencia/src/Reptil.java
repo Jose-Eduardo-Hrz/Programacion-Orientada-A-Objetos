@@ -13,14 +13,8 @@ public class Reptil extends Animal{
 
     @Override
     public String toString() {
-        return String.format("%-20s %-20s %-20s %-20s %-20s %-10s %-10s %-10s %-10s %-10s", 
-            getNombre(), 
-            getTipoPiel(),
-            getTipoRespiracion(),
-            getTipoReproduccion(),
-            getHabitad(),
-            "N/A", "N/A","N/A", "N/A",
-            getTienePatas()
+        return super.toString() + String.format("%-10s %-10s %-10s %-10s %-10s",
+            "N/A", "N/A","N/A", "N/A", getTienePatas()
         );
     }
 
