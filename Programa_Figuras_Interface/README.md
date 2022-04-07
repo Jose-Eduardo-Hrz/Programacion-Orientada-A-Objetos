@@ -12,7 +12,7 @@ comportamiento.
 
 ## Resultado
 
-![](https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/main/Tarea1_ManejoArreglos/Resultado.gif)
+![](https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/main/Programa_Figuras_Interface/Resultado.gif)
 
 
 ## Autores
