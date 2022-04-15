@@ -12,8 +12,9 @@ comportamiento.
 
 ## Resultado
 
-![](https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/main/Programa_Figuras_Interface/Resultado.gif)
-
+<div align="center">
+  <img src="https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/main/Programa_Figuras_Interface/Resultado.gif" width="800">
+ </div>
 
 ## Autores
 - Jose Eduardo Hernandez
