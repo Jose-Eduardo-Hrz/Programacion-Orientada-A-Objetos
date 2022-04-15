@@ -42,7 +42,10 @@ java -cp bin;lib/mysql-connector-java-8.0.28.jar Principal
 
 ## Configuracion de Archivo Properties
 
-https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/5b26e6de5e66d6fc2d64d2690dd99c9d94423e03/Tarea3_Acceso_BD/Configuracion.properties#L1-L8
+https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/34c152fa655621cb992463c991e79a38d391f71d/Tarea3_Acceso_BD/Configuracion.properties#L1-L8
+
+Para este proyecto se utilizo una base de datos en la nube:
+- Clever Cloud https://www.clever-cloud.com/
 
 ## Resultado
 
