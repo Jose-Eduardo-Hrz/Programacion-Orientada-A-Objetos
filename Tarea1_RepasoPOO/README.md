@@ -13,7 +13,9 @@ constructor con todos los atributos y los métodos getter y setter de los atribu
 
 ## Resultado
 
-![](https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/main/Tarea1_RepasoPOO/Resultado.gif)
+<div align="center">
+  <img src="https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/main/Tarea1_RepasoPOO/Resultado.gif" width="800">
+ </div>
 
 ## Apoyo
 
