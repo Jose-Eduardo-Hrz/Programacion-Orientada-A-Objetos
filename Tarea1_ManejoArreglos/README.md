@@ -11,7 +11,9 @@ Escribe un programa en Java que pida una lista de nombres de personas, que las a
 
 ## Resultado
 
-![](https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/main/Tarea1_ManejoArreglos/Resultado.gif)
+<div align="center">
+  <img src="https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/main/Tarea1_ManejoArreglos/Resultado.gif" width="800">
+ </div>
 
 ## Apoyo
 - https://youtu.be/a2IqAZ-ndMQ
