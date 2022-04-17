@@ -37,7 +37,7 @@ public interface CalculaCostos{
 
  Tambien puedes visualizar y ejecutar el programa en la siguiente url:
 
- https://replit.com/@JOSE-EDUARDOE73/Tarea3HerenciaPolimorfismo#src/Principal.java
+https://replit.com/@JOSE-EDUARDOE73/Tarea3HerenciaPolimorfismo#README.md
 
 ## Autores
 
