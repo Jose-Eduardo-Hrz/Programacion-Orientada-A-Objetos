@@ -6,8 +6,7 @@ Desarrollar un sistema para la gestión y renta de diferentes tipos de transport
 2. Desarrollar una interface en Java para definir los métodos abstractos que permitan calcular el precio de renta aplicable a cada tipo de transporte.
 
 ```java
-public interface CalculaCostos
-{
+public interface CalculaCostos{
     public abstract double calculaPrecioBase();
     public abstract double calculaPrecioRenta();
 }
@@ -33,7 +32,7 @@ public interface CalculaCostos
 ## Resultado
 
 <div align="center">
-  <img src="https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/main/Tarea3_Acceso_BD/Resultado.gif" width="800">
+  <img src="https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/main/Tarea3_Herencia_Polimorfismo/Resultado.gif" width="800">
  </div>
 
  Tambien puedes visualizar y ejecutar el programa en la siguiente url:
