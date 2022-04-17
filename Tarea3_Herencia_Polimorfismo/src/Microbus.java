@@ -6,7 +6,7 @@ public class Microbus extends TransportePersonas{
 
     @Override
     public double calculaPrecioRenta() {
-        return 500 + ( 35 * getNumeroAsientos() );
+        return calculaPrecioBase() + ( 35 * getNumeroAsientos() );
     }
     
 }
