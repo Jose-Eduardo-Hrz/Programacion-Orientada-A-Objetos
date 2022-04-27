@@ -39,7 +39,7 @@ la ejecución del programa.
 ## Resultado 
 
 <div align="center">
-  <img src="https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/main/Tarea4_Herencia_Multiple/Resultado.gif" width="800">
+  <img src="https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/main/Tarea4_Herencia_Multiple/Resultado.gif" width="1000">
  </div>
 
 Tambien puedes visualizar y ejecutar el programa en la siguiente url:
@@ -53,3 +53,4 @@ https://replit.com/@JOSE-EDUARDOE73/Tarea4HerenciaMultiple#src/README.md
 
 ## Repositorio
 
+https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/main/Tarea4_Herencia_Multiple/README.md
