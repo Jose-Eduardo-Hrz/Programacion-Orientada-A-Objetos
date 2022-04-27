@@ -1,4 +1,4 @@
-﻿# Tarea 4. Herencia Multiple
+# Tarea 4. Herencia Multiple
 
 ## Instrucciones
 
@@ -39,7 +39,7 @@ la ejecución del programa.
 ## Resultado 
 
 <div align="center">
-  <img src="https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/main/Tarea3_Herencia_Polimorfismo/Resultado.gif" width="800">
+  <img src="https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/main/Tarea4_Herencia_Multiple/Resultado.gif" width="800">
  </div>
 
 Tambien puedes visualizar y ejecutar el programa en la siguiente url:
