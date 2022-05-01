@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Principal</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+</head>
+
+<body class="bg-light">
+
+    <div class="container mt-4">
+
+        <h1> Laboratorio de Programación Orientada a Objetos </h1>
+
+        <!-- Seccion para el registro de alumnos -->
+        <div class="container shadow p-3 mb-5 bg-body rounded mt-5">
+            <form action="Registrar" method="POST">
+                <h2 class="mb-4">Registro de Alumnos</h2>
+                <div class="row">
+                    <div class="col-sm-12 col-md-6 mb-3">
+                        <label for="RegistrarMatricula" class="form-label">Escribe la Matricula:</label>
+                        <input type="text" class="form-control" id="RegistrarMatricula" placeholder="Ejemplo: 2172002687" name="RegistrarMatricula">
+                    </div>
+                    <div class=" col-sm-12 col-md-6 mb-3">
+                        <label for="RegistrarNombre" class="form-label">Escribe el Nombre del Alumno:</label>
+                        <input type="text" class="form-control" id="RegistrarNombre" placeholder="Ejemplo: Jose Eduardo" name="RegistrarNombre">
+                    </div>
+                    <div class="col-sm-12 col-md-6 mb-3">
+                        <label for="RegistrarCorreo" class="form-label">Escribe el Correo:</label>
+                        <input type="text" class="form-control" id="RegistrarCorreo" placeholder="Ejemplo: josedelacruz@azc.uam.mx" name="RegistrarCorreo">
+                    </div>
+                    <div class="col-sm-12 col-md-6 mt-md-4">
+                        <select class="form-select" aria-label="Default select example" name="RegistrarCarrera">
+                            <option selected>Seleccione la Ingenieria</option>
+                            <option value="Ingenieria Computacion">Ingenieria en Computación</option>
+                            <option value="Ingenieria Industrial">Ingenieria Industrial</option>
+                            <option value="Ingenieria Quimica">Ingenieria Quimica</option>
+                          </select>
+                    </div>
+                    <div class="col-sm-12">
+                        <button type="submit" class="btn btn-primary mt-sm-3 mt-md-0">Registrar</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+
+        <!-- Modificar alumno -->
+        <div class="container shadow p-3 mb-5 bg-body rounded mt-5">
+            <form action="Modificar" method="POST">
+                <h2 class="mb-4">Modificar Alumno</h2>
+                <div class="row">
+                    <div class="col-sm-12 col-md-6 mb-3">
+                        <label for="ModificarMatricula" class="form-label">Escribe la Matricula:</label>
+                        <input type="text" class="form-control" id="ModificarMatricula" placeholder="Ejemplo: 2172002687" name="ModificarMatricula">
+                    </div>
+                    <div class=" col-sm-12 col-md-6 mb-3">
+                        <label for="ModificarNombre" class="form-label">Escribe el Nuevo Nombre del Alumno:</label>
+                        <input type="text" class="form-control" id="ModificarMatricula" placeholder="Ejemplo: Jose Eduardo" name="ModificarNombre">
+                    </div>
+                    <div class="col-sm-12 col-md-6 mb-3">
+                        <label for="ModificarCorreo" class="form-label">Escribe el Nuevo Correo:</label>
+                        <input type="text" class="form-control" id="ModificarMatricula" placeholder="Ejemplo: josedelacruz@azc.uam.mx" name="ModificarCorreo">
+                    </div>
+                    <div class="col-sm-12 col-md-6 mt-md-4">
+                        <select class="form-select" aria-label="Default select example" name="ModificarCarrera">
+                            <option selected>Seleccione la Nueva Ingenieria</option>
+                            <option value="Ingenieria en Computación">Ingenieria en Computación</option>
+                            <option value="Ingenieria Industrial">Ingenieria Industrial</option>
+                            <option value="Ingenieria Quimica">Ingenieria Quimica</option>
+                          </select>
+                    </div>
+                    <div class="col-sm-12">
+                        <button type="submit" class="btn btn-primary mt-sm-3 mt-md-0">Modificar</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+
+        <div class="row">
+
+            <div class="container shadow p-3 mb-5 bg-body rounded col-sm-12 col-md-5">
+                <form action="MostrarTodo">
+                    <h2 class="mb-4">Mostrar todos los Alumnos</h2>
+                    <div class="col-sm-12">
+                        <button type="submit" class="btn btn-primary mt-sm-3 mt-md-0">Mostrar</button>
+                    </div>
+                </form>
+            </div>
+    
+            <div class="container shadow p-3 mb-5 bg-body rounded col-sm-12 col-md-5">
+                <form action="MostrarAlumno">
+                    <h2 class="mb-4">Mostrar un Alumno</h2>
+                    <div class="col-sm-12">
+                        <div class="row">
+                            <div class=" col-sm-12 col-md-6 mb-3">
+                                <label for="MostrarMatricula" class="form-label">Matricula del Alumno:</label>
+                                <input type="text" class="form-control" id="MostrarNombre" placeholder="Ejemplo: 2172002687" name="MostrarMatricula">
+                            </div>
+                            <div class="col-sm-12 col-md-6">
+                                <button type="submit" class="btn btn-primary mt-sm-1 mt-md-4">Mostrar</button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+    </div>
+
+
+</body>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+    crossorigin="anonymous"></script>
+
+</html>
