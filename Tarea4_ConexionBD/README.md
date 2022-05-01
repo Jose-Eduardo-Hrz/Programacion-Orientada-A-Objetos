@@ -24,7 +24,7 @@ Configurar la conexión con la base de datos:
 ## Resultado
 
 <div align="center">
-  <img src="https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/main/Tarea1_ManejoArreglos/Resultado.gif" width="800">
+  <img src="https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/main/Tarea4_ConexionBD/Resultado.gif" width="800">
  </div>
 
 ## Apoyo 
@@ -33,5 +33,5 @@ Configurar la conexión con la base de datos:
 
 ## Autores
 
-- Jose Eduardo Hernandez
+- José Eduardo Hernández
 - Maricela Claudia Bravo
