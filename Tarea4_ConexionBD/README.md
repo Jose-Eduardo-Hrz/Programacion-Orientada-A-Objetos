@@ -1,4 +1,4 @@
-﻿# Tarea 4. Acceso a la Base de Datos desde una aplicación Web
+# Tarea 4. Acceso a la Base de Datos desde una aplicación Web
 
 ## Descripción
 
@@ -15,16 +15,16 @@ Aplicación web creada con el lenguaje de programación Java que permite conecta
 
 Crear la base de datos en el gestor de base de datos:
 
-
+https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/f49fc3eae5441f345136dbf23a9ebc3e441a5480/Tarea4_ConexionBD/BaseDatos/BaseDatos.sql#L1-L11
 
 Configurar la conexión con la base de datos:
 
-
+https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/f49fc3eae5441f345136dbf23a9ebc3e441a5480/Tarea4_ConexionBD/src/java/BD/Conexion.java#L14-L18
 
 ## Resultado
 
 <div align="center">
-  <img src="https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/main/Tarea4_ConexionBD/Resultado.gif" width="800">
+  <img src="https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/main/Tarea4_ConexionBD/Resultado.gif" width="1000">
  </div>
 
 ## Apoyo 
