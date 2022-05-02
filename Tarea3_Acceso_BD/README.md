@@ -44,6 +44,10 @@ java -cp bin;lib/mysql-connector-java-8.0.28.jar Principal
 
 https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/34c152fa655621cb992463c991e79a38d391f71d/Tarea3_Acceso_BD/Configuracion.properties#L1-L8
 
+## Base de Datos
+
+https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/d45f2dbb6c3ffb6307b4735efb720c99111d7bc7/Tarea3_Acceso_BD/SQL/DB_Horario.sql#L1-L15
+
 Para este proyecto se utilizo una base de datos en la nube:
 - Clever Cloud https://www.clever-cloud.com/
 
