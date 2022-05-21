@@ -68,11 +68,7 @@ aspectos funcionales del sistema y que éstos sean evaluados.
  ## Resultados
 
  <div align="center">
-  <img src="https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/main/Tarea4_Herencia_Multiple/Resultado.gif" width="100">
- </div>
-
- <div style="font-size:center;">
-    Imagen 1. Clases
+  <img src="https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/main/ProyectoCarritoCompras/Imagenes/Resultado.gif" width="1000">
  </div>
 
  Tambien puede observar el código en la siguiente liga:
