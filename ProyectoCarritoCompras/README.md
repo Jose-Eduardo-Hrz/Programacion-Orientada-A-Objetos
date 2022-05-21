@@ -14,10 +14,10 @@ Este inventario se manejará mediante una tabla de Hash (HashMap) la cual se uti
 un archivo serializado “inventario.ser”.
 
 <div align="center">
-  <img src="https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/main/Tarea4_Herencia_Multiple/Resultado.gif" width="1000">
+  <img src="https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/main/ProyectoCarritoCompras/Imagenes/Imagen1.PNG" width="400">
  </div>
 
- <div style="font-size:center;">
+ <div align="center">
     Imagen 1. Clases
  </div>
 
@@ -55,17 +55,20 @@ aspectos funcionales del sistema y que éstos sean evaluados.
 ## Diagrama
 
 <div align="center">
-  <img src="https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/main/Tarea4_Herencia_Multiple/Resultado.gif" width="1000">
+  <img src="https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/main/ProyectoCarritoCompras/Imagenes/Diagrama.png" width="1100">
  </div>
 
- <div style="font-size:center;">
-    Imagen 1. Clases
- </div>
+<div align="center">
+  Imagen 2. Diagrama de Clases
+</div>
+
+
+**NOTA: Si no se logra observar correctamente el diagrama, favor de presionar la imagen**
 
  ## Resultados
 
  <div align="center">
-  <img src="https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/main/Tarea4_Herencia_Multiple/Resultado.gif" width="1000">
+  <img src="https://github.com/Jose-Eduardo-Hrz/Programacion-Orientada-A-Objetos/blob/main/Tarea4_Herencia_Multiple/Resultado.gif" width="100">
  </div>
 
  <div style="font-size:center;">
