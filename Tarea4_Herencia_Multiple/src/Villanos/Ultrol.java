@@ -36,7 +36,7 @@ public class Ultrol implements Villano{
 
     @Override
     public String toString() {
-        return "Mi nombre es " + nombre() + " mi proposito es " + proposito();
+        return "Mi nombre es " + this.nombre() + " mi proposito es " + this.proposito();
     }
     
 }

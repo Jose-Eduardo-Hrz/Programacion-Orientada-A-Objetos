@@ -41,7 +41,7 @@ public class Hulk implements SuperHeroe, Humano{
 
     @Override
     public String toString() {
-        return normal() + " mis poderes son " + poderes() + " mi identidad " + identidad();
+        return this.normal() + " mis poderes son " + this.poderes() + " mi identidad " + this.identidad();
     }
 
 }

@@ -41,7 +41,7 @@ public class DuendeVerde implements Villano, Humano{
 
     @Override
     public String toString() {
-        return "Soy " + normal() + " mi nombre es " + nombre() + " mi proposito es " + proposito();
+        return "Soy " + this.normal() + " mi nombre es " + this.nombre() + " mi proposito es " + this.proposito();
     }
     
 }

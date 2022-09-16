@@ -44,24 +44,18 @@ public class GestorBatalla {
         }
     }
 
-    private static void colocarLineas( int num ){
-        for( int i = 0 ; i < num ; i++ )
-            System.out.print("-");
-        System.out.println();
-    }
-
     private static void mostrarTabla( SuperHeroe superheroe , Villano villano ){
-        colocarLineas(50);
+        System.out.println( "-".repeat(50) );
         System.out.println( String.format( "| %-20s | %-10s | %-10s |" , "" , "Heroe" , "Villano" ) );
-        colocarLineas(50);
+        System.out.println( "-".repeat(50) );
         System.out.println( String.format( "| %-20s | %-10s | %-10s |" , "Ataque" , superheroe.valorAtaque() , villano.valorAtaque() ) );
-        colocarLineas(50);
+        System.out.println( "-".repeat(50) );
         System.out.println( String.format( "| %-20s | %-10s | %-10s |" , "Defensa" , superheroe.valorDefensa() , villano.valorDefensa() ) );
-        colocarLineas(50);
+        System.out.println( "-".repeat(50) );
         System.out.println( String.format( "| %-20s | %-10s | %-10s |" , "Experiencia/Maldad" , superheroe.valorExperiencia() , villano.valorMaldad() ) );
-        colocarLineas(50);
+        System.out.println( "-".repeat(50) );
         System.out.println( String.format( "| %-20s | %-10s | %-10s |" , "Resistencia" , superheroe.valorResistencia() , villano.valorResistencia() ) );
-        colocarLineas(50);
+        System.out.println( "-".repeat(50) );
         System.out.println();
     }
 

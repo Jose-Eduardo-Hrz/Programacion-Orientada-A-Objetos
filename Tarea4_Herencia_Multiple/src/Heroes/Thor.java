@@ -41,7 +41,7 @@ public class Thor implements SuperHeroe, Alien{
 
     @Override
     public String toString() {
-        return "Yo naci en " + planet() + " mis poderes son " + poderes() + " mi identidad " + identidad();
+        return "Yo naci en " + this.planet() + " mis poderes son " + this.poderes() + " mi identidad " + this.identidad();
     }
     
 }

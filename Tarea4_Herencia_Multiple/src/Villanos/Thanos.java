@@ -41,7 +41,7 @@ public class Thanos implements Villano, Alien{
 
     @Override
     public String toString() {
-        return "Yo naci en " + planet() + " mi nombre es " + nombre() + " mi proposito es " + proposito();
+        return "Yo naci en " + this.planet() + " mi nombre es " + this.nombre() + " mi proposito es " + this.proposito();
     }
     
 }
